@@ -1,0 +1,79 @@
+[28-May-2018 16:21:09 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:11 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:14 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:16 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/index.php on line 12
+[28-May-2018 16:21:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/index.php on line 12
+[29-May-2018 17:51:02 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[29-May-2018 17:51:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:46:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:47:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:48:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:51:11 UTC] PHP Notice:  Undefined variable: about_active in /home/bikeworl/public_html/header.php on line 92
+[03-Jun-2018 05:51:11 UTC] PHP Notice:  Undefined variable: full_service_active in /home/bikeworl/public_html/header.php on line 93
+[03-Jun-2018 05:51:11 UTC] PHP Notice:  Undefined variable: services_active in /home/bikeworl/public_html/header.php on line 94
+[03-Jun-2018 05:51:11 UTC] PHP Notice:  Undefined variable: contact_active in /home/bikeworl/public_html/header.php on line 98
+[03-Jun-2018 05:51:11 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 4
+[03-Jun-2018 05:51:11 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 4
+[03-Jun-2018 05:51:11 UTC] PHP Warning:  include(): Failed opening '../services.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 4
+[03-Jun-2018 05:53:37 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:53:37 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:53:37 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:10 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:10 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:10 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:51 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:51 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:55:51 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:15 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:15 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:15 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:19 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:19 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:28 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:28 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:28 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:33 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:33 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 05:58:33 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:01:39 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:01:39 UTC] PHP Warning:  require(../config/config.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:01:39 UTC] PHP Fatal error:  require(): Failed opening required '../config/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:05:48 UTC] PHP Parse error:  syntax error, unexpected ''/../config/config.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:06:34 UTC] PHP Parse error:  syntax error, unexpected ''/../config/config.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/bikeworl/public_html/helper/functions.php on line 3
+[03-Jun-2018 06:07:18 UTC] PHP Notice:  Undefined variable: about_active in /home/bikeworl/public_html/header.php on line 92
+[03-Jun-2018 06:07:18 UTC] PHP Notice:  Undefined variable: full_service_active in /home/bikeworl/public_html/header.php on line 93
+[03-Jun-2018 06:07:18 UTC] PHP Notice:  Undefined variable: services_active in /home/bikeworl/public_html/header.php on line 94
+[03-Jun-2018 06:07:18 UTC] PHP Notice:  Undefined variable: contact_active in /home/bikeworl/public_html/header.php on line 98
+[03-Jun-2018 06:07:18 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:07:18 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:07:18 UTC] PHP Warning:  include(): Failed opening '../services.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:01 UTC] PHP Notice:  Undefined variable: about_active in /home/bikeworl/public_html/header.php on line 92
+[03-Jun-2018 06:08:01 UTC] PHP Notice:  Undefined variable: full_service_active in /home/bikeworl/public_html/header.php on line 93
+[03-Jun-2018 06:08:01 UTC] PHP Notice:  Undefined variable: services_active in /home/bikeworl/public_html/header.php on line 94
+[03-Jun-2018 06:08:01 UTC] PHP Notice:  Undefined variable: contact_active in /home/bikeworl/public_html/header.php on line 98
+[03-Jun-2018 06:08:01 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:01 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:01 UTC] PHP Warning:  include(): Failed opening '../services.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:53 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:53 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:08:53 UTC] PHP Warning:  include(): Failed opening '../services.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:10:22 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:10:22 UTC] PHP Warning:  include(../services.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:10:22 UTC] PHP Warning:  include(): Failed opening '../services.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:11:46 UTC] PHP Parse error:  syntax error, unexpected ''/../'' (T_CONSTANT_ENCAPSED_STRING) in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:13:02 UTC] PHP Parse error:  syntax error, unexpected ''/../'' (T_CONSTANT_ENCAPSED_STRING) in /home/bikeworl/public_html/helper/functions.php on line 7
+[03-Jun-2018 06:13:36 UTC] PHP Notice:  Undefined variable: about_active in /home/bikeworl/public_html/header.php on line 92
+[03-Jun-2018 06:13:36 UTC] PHP Notice:  Undefined variable: full_service_active in /home/bikeworl/public_html/header.php on line 93
+[03-Jun-2018 06:13:36 UTC] PHP Notice:  Undefined variable: services_active in /home/bikeworl/public_html/header.php on line 94
+[03-Jun-2018 06:13:36 UTC] PHP Notice:  Undefined variable: contact_active in /home/bikeworl/public_html/header.php on line 98
+[03-Jun-2018 06:27:46 UTC] PHP Warning:  include(/home/bikeworl/public_html/helper/../www.bikeworldservice.in.php): failed to open stream: No such file or directory in /home/bikeworl/public_html/helper/functions.php on line 11
+[03-Jun-2018 06:27:46 UTC] PHP Warning:  include(): Failed opening '/home/bikeworl/public_html/helper/../www.bikeworldservice.in.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bikeworl/public_html/helper/functions.php on line 11
